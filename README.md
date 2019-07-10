@@ -1,6 +1,12 @@
 # Calculus_Differential_Equation-public
  Calculus_Differential_Equation-public
 
+
+このページは公開用の運用テストです．
+GitHub＆Jupyter notebookにおける教材開発は，井手勇介先生と共同にて教育教材を開発中です．
+
 このプロジェクトでは，金沢工業大学数理工教育研究センターで2018年後学期から開始している，Jupyter notebookを用いた学習支援の開発を行なった時の配布資料です．
-練習問題は簡単なPythonのコードで作成してます，数式部分のみを変更して，Python環境( Jupyter)でRunすることで自作も練習問題を作れるようにしたものです．
+練習問題は簡単なPythonのコードで作成してます，プログラムの数式部分のみを変更して，Python環境( Jupyter)でRunすることで自作も練習問題を作れるようにしたものです．
 内容は微分積分学の基礎．微分方程式の基礎的な内容の演習問題です．
+
+高　香滋（金沢工業大学　数理工教育研究センター）
